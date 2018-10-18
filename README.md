@@ -1,5 +1,4 @@
 # Hello-world
-Just a new repository.
 
 Hello everybody,I am a new coder coming [GitHub.com](www.github.com).
 
